@@ -1,4 +1,4 @@
-# EDA_project
+# EDA Project
 
 This is an Exploratory Data Analysis (EDA) that I have conducted on a sample database that simulates e-commerce operations of a bicycle and accessories business
 
