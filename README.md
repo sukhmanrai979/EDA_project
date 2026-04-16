@@ -6,7 +6,7 @@ This project performs exploratory data analysis (EDA) on a simulated e-commerce 
 
 ## Tools Used
 
-- SQL (:contentReference[oaicite:0]{index=0})
+- SQL (Microsoft SQL Server)
 - Excel / CSV datasets
 - Data exploration techniques (joins, aggregations, filtering)
 
