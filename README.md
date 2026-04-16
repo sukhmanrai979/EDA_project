@@ -1,11 +1,28 @@
-# EDA Project
+## Project Overview
 
-This is an Exploratory Data Analysis (EDA) that I have conducted on a sample database that simulates e-commerce operations of a bicycle and accessories business
+This project performs exploratory data analysis (EDA) on a simulated e-commerce dataset representing a bicycle and accessories business. The goal is to understand sales performance, customer behavior, and product trends using SQL.
 
-**EDA_Project.sql** - SQL script I ran to explore the measures and dimensions of data within each table
+---
 
-**dim_customers.csv** - Personal details of customers of the business
+## Tools Used
 
-**dim_products.csv** - Details of products sold by the business
+- SQL (:contentReference[oaicite:0]{index=0})
+- Excel / CSV datasets
+- Data exploration techniques (joins, aggregations, filtering)
 
-**fact_sales.csv** - Sales record containing customer and product details
+---
+
+## Dataset Description
+
+- **Customers Table** → Customer demographics and details  
+- **Products Table** → Product catalog and attributes  
+- **Sales Table** → Transaction-level sales data  
+
+---
+
+## Files Included
+
+- `EDA_Project.sql` → SQL queries used for analysis  
+- `dim_customers.csv` → Customer dimension table  
+- `dim_products.csv` → Product dimension table  
+- `fact_sales.csv` → Sales fact table
